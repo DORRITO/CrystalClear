@@ -1,0 +1,64 @@
+.App{
+  margin-top: -10rem;
+
+  transform: scale(.95);
+}
+
+.Contact{
+  height: 25vh;
+  margin-left: 37.5vw;
+}
+
+.Commercial{
+  background: url('./images/commercial.jpg');
+  background-size: contain ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-style: solid;
+  display: inline-block;
+  height: 40vh;
+  width: 30vw;
+  margin: 0rem 0 0 0;
+  padding-left: 8rem;
+}
+.Residential{
+  background: url('./images/residential.jpg');
+  background-size: cover;
+  border-style: solid;
+  display: flex;
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 40vh;
+  width: 30vw;
+  margin: 0rem 0 0 0;
+  padding-left: 8rem;
+}
+
+.Services{
+  height: 25vh;
+  margin: 0rem 0 20rem 0;
+}
+
+.Title {
+  background: url('./images/pool.jpg');
+  background-size: cover ;
+  border-style: solid;
+  height: 128vh;
+  width: 100vw;
+  
+}
+
+.Text1{
+  font-family: 'Playball', cursive;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 600%;
+  margin-top: 3.5rem;
+}
+.Text2{
+  font-family: 'Playball', cursive;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 600%;
+  margin-top: -1rem;
+}

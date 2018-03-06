@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import { Grid, Icon, Segment } from 'semantic-ui-react';
 
+import Contact from './Contact';
+
 class Servies extends Component {
   render() {
     return (
@@ -47,6 +49,7 @@ class Servies extends Component {
             </Grid.Column>
           </Grid>
         </Segment>
+        <Contact />
       </div>
     );
   }

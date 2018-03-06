@@ -6,8 +6,7 @@
 
 .Contact{
   height: 25vh;
-  margin-left: 37.5vw;
-  /* margin: 5% 0 5% 37.5%; */
+  margin-left: 37.5%;
 }
 
 .Clients{
@@ -36,7 +35,7 @@
 
 .Services{
   height: 25vh;
-  margin: 0rem 0 20rem 0;
+  margin: 0rem 0 0 0;
 }
 
 .Title {
@@ -64,10 +63,8 @@
   margin-top: -2vh;
 }
 
-@media only screen and (max-width: 700px) {
-  /* .Contact{
-    height: 25vh;
-    margin-left: 37.5vw;
-    margin-top: 10rem;
-  } */
+@media only screen and (max-width: 600px) {
+  .Contact{
+    margin-left: 12.5vw;
+  }
 }

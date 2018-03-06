@@ -60,3 +60,15 @@
   font-size: 600%;
   margin-top: -1rem;
 }
+
+@media screen and (max-width: 500px) {
+  html {
+    /* reducing base font size will reduce all rem sizes */
+    font-size: 13px;
+  }
+
+    /* you can reduce font sizes manually as well*/
+    /* h1 { font-size: 1.2rem; }
+    h2 { font-size: 1.0rem; } */
+
+}

@@ -18,8 +18,7 @@
   display: inline-block;
   height: 40vh;
   width: 30vw;
-  margin: 0rem 0 0 0;
-  padding-left: 8rem;
+  /* padding-left: 8rem; */
 }
 .Residential{
   background: url('./images/residential.jpg');
@@ -30,8 +29,7 @@
   display: inline-block;
   height: 40vh;
   width: 30vw;
-  margin: 0rem 0 0 0;
-  padding-left: 8rem;
+  /* padding-left: 8rem; */
 }
 
 .Services{
